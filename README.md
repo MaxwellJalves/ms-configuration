@@ -29,3 +29,6 @@ Repositorio responsavel por ler os dados do repo de configurações dos ms
 	]
 }
 ````
+
+## Referncia
+https://cloud.spring.io/spring-cloud-config/multi/multi__spring_cloud_config_server.html
